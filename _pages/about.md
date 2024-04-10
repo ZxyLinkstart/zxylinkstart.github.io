@@ -34,6 +34,8 @@ Wenfeng Song, **Xingliang Jin**, Shuai Li*, Chenglizhao Chen†, Aimin Hao, Xia 
 
 [**Github**](https://github.com/XingliangJin/MCM-LDM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/FineStyle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,6 +46,8 @@ Wenfeng Song, **Xingliang Jin**, Shuai Li*, Chenglizhao Chen, Aimin Hao, Xia Hou
 
 [**Github**](https://github.com/XingliangJin/Fine-Style) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2023</div><img src='images/icip.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
