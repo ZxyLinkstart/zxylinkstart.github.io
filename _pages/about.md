@@ -21,7 +21,7 @@ I am a graduate student at Beijing Information Science and Technology University
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted to CVPR 2024. 
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted to CVPR 2024.!
 
 # 📝 Publications 
 
