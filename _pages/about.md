@@ -79,4 +79,4 @@ Wenfeng Song, **Xinyu Zhang**, Yuting Guo, Shuai Li*, Aimin Hao, Hong Qin*
 - *2023.4*, poster at IEEE VR 2023.
 
 # 💻 Internships
-- None (Hope you are interested in me！)
+- None (Hope you are interested in me!)
