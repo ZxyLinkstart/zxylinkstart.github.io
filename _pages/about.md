@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student at Beijing Information Science and Technology University, advised by [Wenfeng Song (宋文凤)](https://buaaswf.github.io/songwenfeng/) My research interests are mainly in digital human motion generation.
+I am a graduate student at Beijing Information Science and Technology University, advised by [Wenfeng Song (宋文凤)](https://buaaswf.github.io/) My research interests are mainly in digital human motion generation.
 
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted to CVPR 2024.  
-- *2023.07*: &nbsp;🎉🎉 One paper accepted to ICCV 2023.
-- *2023.05*: &nbsp;🎉🎉 One paper accepted to IJCV.
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted to ICCV 2023.
+- *2023.05*: &nbsp;🎉🎉 One paper is accepted to IJCV.
 
 # 📝 Publications 
 
@@ -64,8 +64,6 @@ Wenfeng Song, **Xinyu Zhang**, Yuting Guo, Shuai Li*, Aimin Hao, Hong Qin*
 </div>
 </div>
 
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2023.11* National Scholarship (**TOP 1%**).
