@@ -70,7 +70,7 @@ Wenfeng Song, **Xinyu Zhang**, Yuting Guo, Shuai Li*, Aimin Hao, Hong Qin*
 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Master, Beijing Beijing Information Science & Technology University, Beijing.
+- *2021.09 - 2024.06 (now)*, Master, Beijing Information Science & Technology University, Beijing.
 - *2017.09 - 2021.06*, Undergraduate, Chongqing University of Technology, Chongqing.
 
 # 💬 Invited Talks
