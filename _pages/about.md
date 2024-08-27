@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student at Beijing Information Science and Technology University, advised by [Wenfeng Song (宋文凤)](https://buaaswf.github.io/) My research interests are mainly in digital human motion generation.
+I am pursuing a PhD at Beihang University, advised by Zhong Zhou (周忠) and [Wenfeng Song (宋文凤)](https://buaaswf.github.io/) My research interests are mainly in digital human motion generation and 3d scene generation.
 
 
 # 🔥 News
@@ -70,7 +70,8 @@ Wenfeng Song, **Xinyu Zhang**, Yuting Guo, Shuai Li*, Aimin Hao, Hong Qin*
 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Master, Beijing Information Science & Technology University, Beijing.
+- *2024.09 -  (now)*, Doctor, Beihang University, Beijing.
+- *2021.09 - 2024.07*, Master, Beijing Information Science & Technology University, Beijing.
 - *2017.09 - 2021.06*, Undergraduate, Chongqing University of Technology, Chongqing.
 
 # 💬 Invited Talks
