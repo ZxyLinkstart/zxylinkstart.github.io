@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyu Zhang"
-description              : "Master's student at Beijing Information Science & Technology University, focusing on motion animation generation."
+description              : "A PhD candidate at the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, focusing on motion animation generation and 3D scene generation."
 repository               : "ZxyLinkstart/zxylinkstart.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyu Zhang (张欣宇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Beijing Information Science & Technology University"
+  bio              : "Beihang University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=F58rnrcAAAAJ"
-  email            : "zhangxinyu1@bistu.edu.cn"
+  email            : "zhangxinyu1@buaa.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
